@@ -11,16 +11,7 @@ Collision detection and response.
 Background music and sound effects.
 High-quality pixel art graphics.
 
-
-21 / 21
-
-Mario Pygame - 2D Platform Game
-Mario Pygame Screenshot
-
-Introduction
-Mario Pygame is a 2D platform game built using the Pygame library. It's a tribute to the classic Super Mario series, and it includes essential features such as 2D cameras, animation states, level editors, collisions, audio, and graphics. This README will guide you through setting up the game and understanding its structure.
-
-Features
+#Features
 Classic 2D platformer gameplay.
 Smooth character animations with various states.
 Adjustable 2D camera to follow the player.
